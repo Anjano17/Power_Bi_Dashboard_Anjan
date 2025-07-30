@@ -1,0 +1,19 @@
+Pizza Sales Report:
+This pizza have verious pizza products. 2015 sale of all pizzas and category. Create the Dashboard include below KPIs, Charts and filters.
+KPIs:
+  1)Total revenue.
+  2)Total Orders.
+  3)Total pizza Sold.
+  4)Avg Order value.
+  5)Avg pizzas per order.
+
+Charts:
+  1)Total Orders by Day name.
+  2)Total Orders by month name.
+  3)Total revenue by pizza category.
+  4)Total revenue by pizza size.
+  5)Total Pizzas Sold by pizza category.
+  6)Total pizzas sales by Revenue.
+
+Filter:
+  1)Pizza category.
