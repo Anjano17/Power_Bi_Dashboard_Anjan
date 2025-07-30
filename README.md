@@ -1,7 +1,14 @@
 # Power BI Report:
-Project Title: Sales and Profit Analysis Dashboard
-Objective:
-To analyse the performance of a retail store’s sales and profitability across regions, categories, and time periods, using Power BI.
+
+This Reports include:
+Requirements
+Data models
+DAX
+KPIs
+Charts
+Filters/Slicers
+Power query
+Row level Security
 
 KPIs:
 1. Total Sales: 
